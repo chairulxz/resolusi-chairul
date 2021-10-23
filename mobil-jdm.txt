@@ -7,3 +7,5 @@ jenis - jenisnya
   * harga = 600 juta
 - nissan skyline r34 GTR
   * harga = 1 milliar
+- honda nsx
+  * harga = 1 milliar
