@@ -1,0 +1,9 @@
+jenis - jenisnya
+- toyota supara mk4
+  * harga = 2 milliar
+- honda civic estillo
+  * harga = 500 juta
+- honda civic ek9 type R
+  * harga = 600 juta
+- nissan skyline r34 GTR
+  * harga = 1 milliar
