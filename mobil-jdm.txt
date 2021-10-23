@@ -10,4 +10,5 @@ jenis - jenisnya
 - honda nsx
   * harga = 1 milliar
 - honda s200
+  * harga = 600 juta
 
