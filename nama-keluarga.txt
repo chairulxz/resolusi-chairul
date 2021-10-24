@@ -4,4 +4,8 @@ keluarga ku
 *umur = 40 tahun
 -ibu
 *umur = 36 tahun
+-adik laki-laki
+*umur = 2 tahun
+-adik perempuan
+*umur = 10 tahun
 
