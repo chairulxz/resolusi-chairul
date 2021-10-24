@@ -1,11 +1,13 @@
 keluarga ku
 
--ayah
+- ayah
 *umur = 40 tahun
--ibu
+- ibu
 *umur = 36 tahun
--adik laki-laki
+- adik laki-laki
 *umur = 2 tahun
--adik perempuan
+- adik perempuan
 *umur = 10 tahun
+- buyut
+*umur = 90 tahun
 
