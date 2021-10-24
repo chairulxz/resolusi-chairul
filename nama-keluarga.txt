@@ -1,0 +1,7 @@
+keluarga ku
+
+-ayah
+*umur = 40 tahun
+-ibu
+*umur = 36 tahun
+
