@@ -8,6 +8,8 @@ keluarga ku
 * umur = 2 tahun
 - adik perempuan
 * umur = 10 tahun
+- buyut
+* umur = 90 tahun
 - nenek
 * umur = 65 tahun
 
