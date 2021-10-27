@@ -6,6 +6,7 @@ rencana konten wpu
   > vue
   > react
   > angular
+  > membuat website dengan javascript
 - struktur data dasar
 - php framework
   > lavarel
